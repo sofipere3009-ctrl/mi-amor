@@ -1,1 +1,1467 @@
 # mi-amor
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Para Ti ❤️</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
+}
+
+body{
+background:linear-gradient(135deg,#140018,#230034,#350052);
+color:white;
+overflow-x:hidden;
+}
+
+section{
+max-width:1000px;
+margin:auto;
+padding:80px 20px;
+}
+
+.hero{
+height:100vh;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+text-align:center;
+}
+
+.hero h1{
+font-size:4rem;
+margin-bottom:20px;
+}
+
+.hero p{
+max-width:800px;
+line-height:2;
+font-size:1.1rem;
+}
+
+button{
+padding:15px 30px;
+border:none;
+border-radius:30px;
+background:#ff4fa3;
+color:white;
+cursor:pointer;
+margin-top:20px;
+}
+
+.card{
+background:rgba(255,255,255,0.08);
+padding:30px;
+border-radius:25px;
+margin-bottom:25px;
+backdrop-filter:blur(10px);
+}
+
+.title{
+font-size:3rem;
+text-align:center;
+margin-bottom:40px;
+}
+
+.hidden{
+display:none;
+margin-top:20px;
+line-height:2;
+}
+
+.reasonBox{
+background:rgba(255,255,255,0.08);
+padding:30px;
+border-radius:20px;
+text-align:center;
+font-size:1.2rem;
+margin-top:20px;
+}
+
+.final{
+text-align:center;
+padding-bottom:120px;
+}
+
+.final h2{
+font-size:4rem;
+margin-bottom:20px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<section class="hero">
+
+<h1>Para El Amor De Mi Vida ❤️</h1>
+
+<p>
+
+No hice esta página porque fuera necesario.
+
+La hice porque hay cosas que siento por ti que no siempre sé decir cuando te tengo delante.
+
+Quería crear un lugar donde siempre puedas volver cuando necesites recordar cuánto te amo.
+
+</p>
+
+<a href="#inicio">
+
+<button>
+Entrar ❤️
+</button>
+
+</a>
+
+</section>
+`<section id="inicio">
+
+<h2 class="title">
+Nuestra Historia ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Llevamos tres meses juntos.
+
+Puede parecer poco para algunas personas.
+
+Pero para mí estos meses significaron muchísimo.
+
+Porque en este tiempo te convertiste en una de las personas más importantes de mi vida.
+
+Hubo momentos felices.
+
+Hubo momentos difíciles.
+
+Hubo risas.
+
+Hubo conversaciones largas.
+
+Hubo días donde todo parecía sencillo y otros donde parecía complicado.
+
+Pero incluso en los momentos difíciles nunca dejaste de ocupar un lugar especial dentro de mi corazón.
+
+A veces pienso en todo lo que hemos vivido.
+
+Y aunque no haya sido una eternidad, cada momento contigo tiene un valor enorme para mí.
+
+Porque no se trata del tiempo.
+
+Se trata de quién comparte ese tiempo contigo.
+
+Y yo me siento afortunada de compartirlo contigo.
+
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Todo Lo Que Amo De Ti ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Amo tu piel color canela.
+
+Amo tus ojos negros.
+
+Amo tus cejas gruesas.
+
+Amo tu pelo medio ondulado.
+
+Amo tu sonrisa.
+
+Amo tu forma de hablar.
+
+Amo tu forma de reír.
+
+Amo tu disciplina.
+
+Amo que hagas boxeo.
+
+Amo el esfuerzo que haces cada día.
+
+Amo cómo intentas mejorar.
+
+Amo tu fortaleza.
+
+Amo tu cariño.
+
+Amo tu forma de cuidarme.
+
+Amo cómo me escuchas.
+
+Amo cómo intentas comprenderme.
+
+Amo cómo me haces sentir querida.
+
+Amo cómo sigues adelante incluso cuando las cosas son difíciles.
+
+Amo tu corazón.
+
+Amo la persona que eres cuando nadie te está mirando.
+
+Amo tu autenticidad.
+
+Amo tu sensibilidad.
+
+Amo tu forma de preocuparte por las personas que quieres.
+
+Amo tu forma de demostrar amor.
+
+Amo que seas tú.
+
+Y si tuviera que resumirlo en una sola frase...
+
+amo la manera en la que haces que mi vida sea más bonita simplemente por existir.
+
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Lo Que Cambiaste En Mi ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Antes de conocerte había muchas cosas que no entendía sobre mí.
+
+No sabía cuánto podía llegar a preocuparme por alguien.
+
+No sabía cuánto podía alegrarme un simple mensaje.
+
+No sabía cuánto podía extrañar una voz.
+
+No sabía cuánto podía importar una persona.
+
+Y entonces apareciste tú.
+
+Poco a poco.
+
+Sin hacer ruido.
+
+Sin avisar.
+
+Y terminaste ocupando un lugar enorme dentro de mi corazón.
+
+Cambiaste mis días.
+
+Cambiaste mis pensamientos.
+
+Cambiaste muchas cosas que ni siquiera sabía que podían cambiar.
+
+Me enseñaste que todavía existen personas con un corazón bonito.
+
+Me enseñaste que todavía existen personas que valen la pena.
+
+Y me enseñaste que amar también puede significar cuidar, apoyar, escuchar y permanecer.
+
+Gracias por todo lo que eres.
+
+Gracias por existir.
+
+Gracias por aparecer en mi vida.
+
+❤️
+
+</p>
+
+</div>
+
+</section>
+    <section>
+
+<h2 class="title">
+Cartas Para Abrir 💌
+</h2>
+
+<div class="card">
+
+<h3>Ábreme cuando estés triste</h3>
+
+<button onclick="openCard(0)">
+Abrir ❤️
+</button>
+
+<p class="hidden">
+
+Si estás leyendo esto probablemente estés pasando por un momento difícil.
+
+Quizás las cosas no están saliendo como esperabas.
+
+Quizás estás cansado.
+
+Quizás te sientes frustrado.
+
+Quizás simplemente tuviste un mal día.
+
+Y por eso quiero recordarte algo.
+
+No tienes que ser fuerte todo el tiempo.
+
+No tienes que demostrarle al mundo que puedes con todo.
+
+No tienes que cargar cada problema tú solo.
+
+Está bien sentirse cansado.
+
+Está bien sentirse perdido algunas veces.
+
+Está bien necesitar descansar.
+
+Pero nunca olvides quién eres.
+
+Eres una persona fuerte.
+
+Eres una persona valiosa.
+
+Eres una persona capaz.
+
+Y aunque a veces no puedas verlo, has superado cosas que habrían derrumbado a muchas otras personas.
+
+Estoy orgullosa de ti.
+
+Muchísimo.
+
+Y siempre lo estaré.
+
+❤️
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Ábreme cuando dudes de ti</h3>
+
+<button onclick="openCard(1)">
+Abrir ❤️
+</button>
+
+<p class="hidden">
+
+Quiero que recuerdes algo muy importante.
+
+Eres mucho más de lo que piensas.
+
+Muchas veces veo cómo te exiges demasiado.
+
+Cómo dudas de ti.
+
+Cómo minimizas todo lo bueno que haces.
+
+Y sinceramente me gustaría que pudieras verte como yo te veo.
+
+Porque si pudieras hacerlo, entenderías lo increíble que eres.
+
+Entenderías que tienes cualidades hermosas.
+
+Entenderías que tienes un corazón enorme.
+
+Entenderías que eres una persona que merece amor.
+
+No dejes que tus inseguridades te hagan olvidar todo lo bueno que hay dentro de ti.
+
+Porque hay muchísimo.
+
+Y yo lo veo todos los días.
+
+❤️
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Ábreme cuando me extrañes</h3>
+
+<button onclick="openCard(2)">
+Abrir ❤️
+</button>
+
+<p class="hidden">
+
+Yo también te extraño.
+
+Más de lo que imaginas.
+
+Porque cuando una persona se vuelve importante para ti, termina formando parte de tus pensamientos incluso cuando no está.
+
+A veces una canción me recuerda a ti.
+
+A veces una frase.
+
+A veces un recuerdo.
+
+A veces simplemente algo me hace pensar:
+
+"Ojalá pudiera contarle esto ahora mismo."
+
+Y entonces me doy cuenta de cuánto significas para mí.
+
+Gracias por todos los recuerdos.
+
+Gracias por todas las conversaciones.
+
+Gracias por todos los momentos.
+
+Y gracias por seguir ocupando un lugar tan importante dentro de mi corazón.
+
+❤️
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Ábreme cuando necesites una sonrisa</h3>
+
+<button onclick="openCard(3)">
+Abrir ❤️
+</button>
+
+<p class="hidden">
+
+Quiero que imagines algo.
+
+Imagínate que estoy frente a ti ahora mismo.
+
+Y que te estoy mirando con una sonrisa enorme.
+
+Porque probablemente eso sería exactamente lo que estaría haciendo.
+
+Quiero que recuerdes todas las veces que nos hemos reído.
+
+Todos los momentos tontos.
+
+Todas las conversaciones absurdas.
+
+Todos esos pequeños instantes que terminaron convirtiéndose en recuerdos especiales.
+
+Porque la felicidad muchas veces no aparece en momentos gigantes.
+
+Aparece en esos pequeños detalles.
+
+Y muchos de mis detalles favoritos te incluyen a ti.
+
+❤️
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>Ábreme cuando necesites recordar cuánto te amo</h3>
+
+<button onclick="openCard(4)">
+Abrir ❤️
+</button>
+
+<p class="hidden">
+
+Te amo más de lo que estas palabras pueden explicar.
+
+Te amo en los días buenos.
+
+Te amo en los días difíciles.
+
+Te amo cuando sonríes.
+
+Te amo cuando estás serio.
+
+Te amo cuando estás seguro de ti.
+
+Y también cuando dudas.
+
+Te amo por quien eres.
+
+Por tu forma de pensar.
+
+Por tu forma de sentir.
+
+Por tu forma de existir.
+
+Y aunque las palabras nunca serán suficientes para describirlo completamente, quiero que nunca olvides algo:
+
+Eres una de las personas más importantes de mi vida.
+
+Y siempre tendrás un lugar especial dentro de mi corazón.
+
+❤️
+
+</p>
+
+</div>
+
+    </section>
+        <section>
+
+<h2 class="title">
+Canciones Que Me Hacen Pensar En Ti 🎵
+</h2>
+
+<div class="card">
+
+<h3>🎶 Amar de nuevo (de rauw Alejandro)</h3>
+
+<p>
+
+Esta canción me recuerda a ti porque cuando llegaste a mi vida sentí que encontré algo que no sabía que me faltaba.
+
+me da miedo perderte ya que te encontre sin buscarte.
+
+te dedico toda la cancion poqrue cada palabra de la cancion me hacen sentirme magica porque me devuelve a nuestros recuerdos .
+
+Alguien que logró hacerme sonreír.
+
+Alguien quno soy la mas detalista pero con gusto enseñame a amar de nuevo como dice la cancion.
+
+❤️
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>🎶 Virgen adolecentes</h3>
+
+<p>
+
+esta cancion me hace querer bailarla toda la noche contigo, es tan linda que a la vez lastima, pero su significado
+    
+    su letra, los mas bonito te lo dedico con alma y vida 
+    
+    "y es que hasta mi vida te doy si lloro o tiemblo es por ti amor"
+    
+    te juro que cada palabra expresa los hermosos sentimientos que siento por ti 
+❤️
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>🎶 can´t Help Falling in love (de elvis) </h3>
+
+<p>
+
+esta cancion lenta, como quiero que pase la vida a tu lado como expresa el amor tan tiernamente
+    
+    solo te la puedo dedicar a vos unicamente ni a una amiga nisiquiera porque es tan linda quee hasta ganas
+    
+    de llorar dan ;(
+
+❤️
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>🎶 De que me sirve? (GZ)</h3>
+
+<p>
+
+Simplemente te la cantaria todos los dias, porfavor escuchala te la re dedico
+    
+    "De que me sirve la plata? los fajos? y tener 10 rolex? si yo quiero tu amor que me entiendas y me perdones
+    
+    no me importa el pasado que vivimos si se trata de lo malos..."
+    
+    el temazo que te dedicaria toda la vida mi amor hermoso |
+
+❤️
+
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+100 Razones Por Las Que Te Amo ❤️
+</h2>
+
+<div style="text-align:center;">
+
+<button onclick="newReason()">
+Mostrar Razón ❤️
+</button>
+
+<div class="reasonBox" id="reasonBox">
+
+Pulsa el botón ❤️
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Cofre Del Amor ❤️
+</h2>
+
+<div style="text-align:center;">
+
+<p>
+
+Dentro de este cofre guardé pequeños mensajes para ti.
+
+Cada vez que lo abras aparecerá uno diferente.
+
+❤️
+
+</p>
+
+<button onclick="loveChest()">
+Abrir Cofre ❤️
+</button>
+
+<div class="reasonBox" id="loveChestBox">
+
+Pulsa el botón ❤️
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Lo Que Más Admiro De Ti ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Admiro tu disciplina.
+
+Admiro el esfuerzo que haces.
+
+Admiro tu capacidad de seguir adelante incluso cuando las cosas son difíciles.
+
+Admiro cómo intentas mejorar.
+
+Admiro tu fortaleza.
+
+Admiro tu forma de proteger a las personas que quieres.
+
+Admiro tu corazón.
+
+Admiro todo lo que eres.
+
+Y aunque quizás no siempre lo veas, hay muchas cosas de ti que merecen ser admiradas.
+
+❤️
+
+</p>
+
+</div>
+
+<section>
+
+<h2 class="title">
+Promesas ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Prometo seguir apoyándote.
+
+Prometo seguir escuchándote.
+
+Prometo seguir cuidándote.
+
+Prometo seguir estando para ti.
+
+Prometo intentar entenderte incluso cuando sea difícil.
+
+Prometo seguir recordándote lo valioso que eres.
+
+Prometo seguir eligiéndote.
+
+Prometo alegrarme por tus logros.
+
+Prometo celebrar tus victorias.
+
+Prometo acompañarte en los momentos difíciles.
+
+Prometo intentar hacerte sonreír cuando estés triste.
+
+Prometo seguir creyendo en ti incluso cuando tú dudes de ti mismo.
+
+Prometo recordarte todo lo bueno que hay dentro de ti.
+
+Y prometo que siempre tendrás un lugar especial dentro de mi corazón.
+
+❤️
+
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Mi Pensamiento De Hoy ❤️
+</h2>
+
+<div style="text-align:center;">
+
+<p>
+
+Presiona el botón para descubrir algo que estoy pensando sobre ti.
+
+</p>
+
+<button onclick="todayThought()">
+Descubrir ❤️
+</button>
+
+<div class="reasonBox" id="todayThoughtBox">
+
+Pulsa el botón ❤️
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Generador De Cumplidos ❤️
+</h2>
+
+<div style="text-align:center;">
+
+<p>
+
+Porque nunca está de más recordar lo increíble que eres.
+
+</p>
+
+<button onclick="complimentGenerator()">
+Generar Cumplido ❤️
+</button>
+
+<div class="reasonBox" id="complimentBox">
+
+Pulsa el botón ❤️
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+¿Cuántos Besos Te Mando? 😘
+</h2>
+
+<div style="text-align:center;">
+
+<p>
+
+Presiona el botón y descubre cuántos besos virtuales te envío.
+
+</p>
+
+<button onclick="kissMachine()">
+Recibir Besos ❤️
+</button>
+
+<div class="reasonBox" id="kissBox">
+
+Presiona el botón 😘
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Si Pudiera Describirte ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Si tuviera que describirte con una sola palabra no podría.
+
+Porque eres mucho más que una palabra.
+
+Eres una colección de momentos.
+
+De recuerdos.
+
+De conversaciones.
+
+De sonrisas.
+
+De experiencias.
+
+Eres una persona que llegó a mi vida y poco a poco fue dejando huellas.
+
+Eres alguien que logró importarme muchísimo.
+
+Alguien que logró ocupar un lugar enorme dentro de mi corazón.
+
+Y sinceramente espero que nunca olvides lo importante que eres para mí.
+
+Porque aunque el mundo a veces sea difícil, tú sigues siendo una de las cosas bonitas que me han pasado.
+
+❤️
+
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Gracias Por Todo ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Gracias por cada conversación.
+
+Gracias por cada momento.
+
+Gracias por cada sonrisa.
+
+Gracias por cada recuerdo.
+
+Gracias por cada vez que estuviste para mí.
+
+Gracias por cada vez que me escuchaste.
+
+Gracias por cada vez que me hiciste sentir querida.
+
+Gracias por cada vez que me hiciste sentir acompañada.
+
+Y gracias por aparecer en mi vida.
+
+Porque desde que llegaste, muchas cosas cambiaron.
+
+Y una de ellas fue mi corazón.
+
+❤️
+
+</p>
+
+</div>
+
+<section>
+
+<h2 class="title">
+Nuestro Futuro ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+No sé exactamente qué nos espera.
+
+No sé qué sorpresas tendrá la vida.
+
+No sé qué caminos vamos a recorrer.
+
+Pero sí sé algo.
+
+Cuando pienso en el futuro, muchas veces apareces tú.
+
+Aparecen conversaciones que todavía no hemos tenido.
+
+Aparecen recuerdos que todavía no hemos creado.
+
+Aparecen momentos que todavía no hemos vivido.
+
+Y aunque nadie puede ver el futuro, me gusta imaginarlo contigo.
+
+Me gusta pensar en todas las cosas bonitas que todavía quedan por vivir.
+
+Porque siento que todavía hay muchísimas páginas por escribir en nuestra historia.
+
+❤️
+
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Máquina De Sueños ❤️
+</h2>
+
+<div style="text-align:center;">
+
+<p>
+
+Presiona el botón para descubrir uno de mis sueños contigo.
+
+</p>
+
+<button onclick="futureMachine()">
+Descubrir ❤️
+</button>
+
+<div class="reasonBox" id="futureMachineBox">
+
+Pulsa el botón ❤️
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+¿Qué Tan Bien Me Conoces? ❤️
+</h2>
+
+<div class="card">
+
+<p>
+¿Quién ocupa un lugar enorme en mi corazón?
+</p>
+
+<button onclick="quiz1(true)">
+Tú ❤️
+</button>
+
+<button onclick="quiz1(false)">
+Mi vecino 😭
+</button>
+
+<p id="quiz1Result"></p>
+
+<hr style="margin:25px 0;">
+
+<p>
+¿Qué quiero seguir construyendo contigo?
+</p>
+
+<button onclick="quiz2(true)">
+Recuerdos ❤️
+</button>
+
+<button onclick="quiz2(false)">
+Nada 😭
+</button>
+
+<p id="quiz2Result"></p>
+
+<hr style="margin:25px 0;">
+
+<p>
+¿Qué siento por ti?
+</p>
+
+<button onclick="quiz3(true)">
+Muchísimo cariño ❤️
+</button>
+
+<button onclick="quiz3(false)">
+Odio 😭
+</button>
+
+<p id="quiz3Result"></p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Carta Para Leer Dentro De Años 💌
+</h2>
+
+<div class="card">
+
+<p>
+
+Si estás leyendo esto dentro de mucho tiempo quiero que recuerdes algo.
+
+No importa cuánto cambien las cosas.
+
+No importa cuánto tiempo pase.
+
+Nunca voy a olvidar lo importante que fuiste para mí.
+
+Nunca voy a olvidar nuestras conversaciones.
+
+Nunca voy a olvidar nuestras risas.
+
+Nunca voy a olvidar todos esos momentos que compartimos.
+
+Porque algunas personas dejan recuerdos.
+
+Pero otras dejan huellas.
+
+Y tú dejaste una huella enorme dentro de mi corazón.
+
+Gracias por cada momento.
+
+Gracias por cada palabra.
+
+Gracias por cada recuerdo.
+
+Y gracias por existir.
+
+❤️
+
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Las Pequeñas Cosas ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Muchas veces pensamos que los momentos importantes son los más grandes.
+
+Pero contigo aprendí algo.
+
+Las pequeñas cosas también importan.
+
+Importan los buenos días.
+
+Importan los mensajes.
+
+Importan las llamadas.
+
+Importan las risas.
+
+Importan los detalles.
+
+Importan las conversaciones simples.
+
+Porque son precisamente esas pequeñas cosas las que terminan convirtiéndose en recuerdos enormes.
+
+Y muchos de mis recuerdos favoritos te incluyen a ti.
+
+❤️
+
+</p>
+
+</div>
+
+</section>
+
+<section>
+
+<h2 class="title">
+Lo Que Quiero Que Nunca Olvides ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+Quiero que nunca olvides cuánto vales.
+
+Quiero que nunca olvides lo importante que eres.
+
+Quiero que nunca olvides que eres capaz de muchas cosas.
+
+Quiero que nunca olvides que tienes un corazón hermoso.
+
+Quiero que nunca olvides que mereces amor.
+
+Y quiero que nunca olvides que siempre voy a guardar un lugar especial para ti dentro de mí.
+
+Porque eres una persona increíble.
+
+Y porque mereces escuchar eso más veces.
+
+❤️
+
+</p>
+
+</div>
+
+    </section>
+<section class="final">
+
+<h2>
+Te Amo Muchísimo ❤️
+</h2>
+
+<div class="card">
+
+<p>
+
+No sé qué pasará dentro de un año.
+
+No sé qué pasará dentro de cinco.
+
+No sé qué nos traerá la vida.
+
+Pero sí sé algo.
+
+Hoy te amo.
+
+Y hoy quería que esta página existiera para recordártelo.
+
+Porque eres importante para mí.
+
+Porque ocupas un lugar enorme en mi corazón.
+
+Porque me has dado recuerdos que jamás voy a olvidar.
+
+Porque me has acompañado en momentos importantes.
+
+Porque me has hecho sonreír.
+
+Porque me has hecho sentir querida.
+
+Y porque simplemente tu existencia hace que mis días sean más bonitos.
+
+A veces pienso en todo lo que vivimos.
+
+En todas nuestras conversaciones.
+
+En todas nuestras risas.
+
+En todos los momentos compartidos.
+
+Y me doy cuenta de algo.
+
+Nunca voy a arrepentirme de haberte querido.
+
+Porque conocerte fue una de las cosas más bonitas que me pasaron.
+
+Gracias por tu cariño.
+
+Gracias por tu tiempo.
+
+Gracias por tus palabras.
+
+Gracias por tus abrazos.
+
+Gracias por todo.
+
+Y si algún día vuelves a leer esta página, quiero que recuerdes algo.
+
+Siempre tendrás un lugar especial dentro de mi corazón.
+
+Siempre.
+
+❤️
+
+</p>
+
+</div>
+
+    </section>
+    <script>
+function todayThought(){
+
+const thoughts = [
+"Hoy te amo más que ayer ❤️",
+"Hoy sigo eligiéndote ❤️",
+"Hoy agradezco tenerte ❤️",
+"Hoy pienso en ti ❤️",
+"hoy estoy segura que quiero seguir estando a tu lado",
+"hoy te amo mas que ayer",
+"hoy capaz no te escribi mucho pero te sigo amando como sos, mi amor :D",
+"hoy estoy segura que sos el amor de mi vida nunca te cambiaria sos tan hermoso sos ta bello sos el amor de mi vida, sabes? hoy no cambia mi amor por ti, solo aumenta <3",
+];
+
+const random = Math.floor(Math.random()*thoughts.length);
+
+document.getElementById("todayThoughtBox").innerHTML =
+thoughts[random];
+
+}
+
+function complimentGenerator(){
+
+const compliments = [
+"Tu sonrisa es la mas malditamente hermosa ilumina mi corazon y no puedo evitar quedarme sin palabras❤️",
+"Me encanta tu forma de ser tan valiente y tan jugueton que me termina encantando cada dia mas❤️",
+"tus brazos son mis escudos son tan lindos que quiero comprar un terreno ahi jaja ❤️",
+"me encantan tus ojos colores obsidiana❤️",
+"me encanta tu nariz, la forma en la que se arruga tan tierna ;D<3",
+"podria describir cada forma tierna en la que te mueves y te comportas pero seria egosita de mi parte porque amo hasta como hablas y como me miras",
+"todo de ti es perfecto amo tus supuestas imperfeccioe que dices tener, donde a vos te disgustaba lo que veias a mi me daban ganas de coquetearte a lo perro porque para mi sos tan malditamente hermoso <3",
+];
+
+const random = Math.floor(Math.random()*compliments.length);
+
+document.getElementById("complimentBox").innerHTML =
+compliments[random];
+
+}
+
+function kissMachine(){
+
+const kisses =
+Math.floor(Math.random()*20)+1;
+
+document.getElementById("kissBox").innerHTML =
+"💋 ".repeat(kisses);
+
+}
+
+function futureMachine(){
+
+const dreams = [
+"Quiero seguir creando recuerdos contigo ❤️",
+"Quiero seguir apoyándote ❤️",
+"Quiero seguir riendo contigo ❤️",
+"Quiero seguir compartiendo mi vida contigo ❤️"
+];
+
+const random = Math.floor(Math.random()*dreams.length);
+
+document.getElementById("futureMachineBox").innerHTML =
+dreams[random];
+
+}
+
+function quiz1(correct){
+
+document.getElementById("quiz1Result").innerHTML =
+correct ? "¡Correcto! ❤️" : "Incorrecto 😭";
+
+}
+
+function quiz2(correct){
+
+document.getElementById("quiz2Result").innerHTML =
+correct ? "¡Correcto! ❤️" : "Incorrecto 😭";
+
+}
+
+function quiz3(correct){
+
+document.getElementById("quiz3Result").innerHTML =
+correct ? "¡Correcto! ❤️" : "Incorrecto 😭";
+
+}
+function openCard(index) {
+    const cards = document.querySelectorAll('.hidden');
+
+    if (cards[index]) {
+        if (cards[index].style.display === "block") {
+            cards[index].style.display = "none";
+        } else {
+            cards[index].style.display = "block";
+        }
+    }
+}
+        function newReason() {
+
+    const reasons = [
+        "Porque me recuerdas todos los días cuánto me amas.",
+        "Porque nunca te cansas de demostrarme tu cariño.",
+        "Porque siempre tienes palabras bonitas para mí.",
+        "Porque me haces sentir especial.",
+        "Porque me haces sentir amada.",
+        "Porque me haces sentir única.",
+        "Porque me haces sentir segura.",
+        "Porque siempre estás pendiente de mí.",
+        "Porque me tienes presente en tu día.",
+        "Porque me escribes apenas piensas en mí.",
+        "Porque hablas conmigo durante horas.",
+        "Porque nunca te aburres de escucharme.",
+        "Porque te interesan mis problemas.",
+        "Porque celebras mis logros.",
+        "Porque me apoyas en mis momentos difíciles.",
+        "Porque me animas cuando estoy triste.",
+        "Porque me haces sonreír incluso en los días malos.",
+        "Porque siempre buscas hacerme feliz.",
+        "Porque eres muy cariñoso conmigo.",
+        "Porque eres atento con los detalles.",
+        "Porque eres caballeroso.",
+        "Porque me tratas con respeto.",
+        "Porque cuidas mis sentimientos.",
+        "Porque nunca buscas hacerme daño.",
+        "Porque siempre intentas entenderme.",
+        "Porque eres paciente conmigo.",
+        "Porque me aceptas tal como soy.",
+        "Porque valoras mis defectos y mis virtudes.",
+        "Porque me haces sentir hermosa.",
+        "Porque admiras quién soy.",
+        "Porque te sientes orgulloso de mí.",
+        "Porque me recuerdas lo importante que soy para ti.",
+        "Porque me haces sentir tu prioridad.",
+        "Porque me eliges cada día.",
+        "Porque me incluyes en tus sueños.",
+        "Porque hablas de nuestro futuro.",
+        "Porque imaginas una vida conmigo.",
+        "Porque me haces creer en el amor.",
+        "Porque me haces sentir en casa cuando estoy contigo.",
+        "Porque tus abrazos me dan paz.",
+        "Porque tu compañía me calma.",
+        "Porque me haces sentir protegida.",
+        "Porque confías en mí.",
+        "Porque eres sincero conmigo.",
+        "Porque siempre buscas arreglar las cosas.",
+        "Porque no te rindes con nosotros.",
+        "Porque me haces sentir valorada.",
+        "Porque me escuchas con atención.",
+        "Porque recuerdas cosas que te cuento.",
+        "Porque te preocupas por cómo me siento.",
+        "Porque me preguntas cómo estuvo mi día.",
+        "Porque te importa mi felicidad.",
+        "Porque me llenas de ternura.",
+        "Porque me haces sentir querida.",
+        "Porque eres dulce conmigo.",
+        "Porque siempre encuentras una forma de hacerme reír.",
+        "Porque tus mensajes alegran mis días.",
+        "Porque tus buenas noches son especiales.",
+        "Porque tus buenos días me hacen sonreír",
+        "Porque me dedicas tiempo.",
+        "Porque disfrutas hablar conmigo.",
+        "Porque siempre encuentras algo bonito que decirme.",
+        "Porque haces que me sienta afortunada.",
+        "Porque me recuerdas que no estoy sola.",
+        "Porque me acompañas incluso a la distancia.",
+        "Porque te preocupas cuando algo me pasa.",
+        "Porque me apoyas cuando tengo miedo.",
+        "Porque me das confianza.",
+        "Porque me haces sentir comprendida.",
+        "Porque eres mi refugio.",
+        "Porque me ayudas a sanar.",
+        "Porque me haces crecer como persona.",
+        "Porque aprendo cosas contigo.",
+        "Porque me inspiras a ser mejor.",
+        "Porque nunca minimizas mis emociones.",
+        "Porque respetas mis tiempos.",
+        "Porque siempre buscas verme bien.",
+        "Porque me haces sentir importante.",
+        "Porque me dedicas palabras que salen del corazón.",
+        "Porque me demuestras amor con acciones.",
+        "Porque eres constante conmigo.",
+        "Porque eres leal.",
+        "Porque eres fiel a tus sentimientos.",
+        "Porque me haces sentir especial incluso en días normales.",
+        "Porque siempre encuentras motivos para decirme que me amas.",
+        "Porque me haces sentir la mujer más afortunada.",
+        "Porque me das tranquilidad.",
+        "Porque me haces sentir segura de nuestro amor.",
+        "Porque me eliges incluso en los momentos difíciles.",
+        "Porque me amas cuando estoy bien y cuando no lo estoy.",
+        "Porque haces que los problemas pesen menos.",
+        "Porque me recuerdas lo valiosa que soy.",
+        "Porque tus palabras siempre llegan a mi corazón.",
+        "Porque me haces sentir profundamente querida.",
+        "Porque compartes tus sentimientos conmigo.",
+        "Porque me demuestras que el amor verdadero existe.",
+        "Porque haces que cada día sea mejor.",
+        "Porque conviertes momentos simples en recuerdos hermosos.",
+        "Porque no imagino mi vida sin ti.",
+        "Porque eres el amor de mi vida y mi lugar favorito en el mundo. ❤️",
+    ];
+
+    const random = Math.floor(Math.random() * reasons.length);
+
+    document.getElementById("reasonBox").innerHTML =
+        reasons[random];
+}
+                function loveChest() {
+
+    const messages = [
+        "Te amo más de lo que imaginas ❤️",
+        "Eres una de las mejores cosas que me han pasado ❤️",
+        "Gracias por existir ❤️",
+        "Estoy orgullosa de ti ❤️",
+        "Siempre tendrás un lugar especial en mi corazón ❤️",
+        "sos el amor de mi vida mi negrito",
+        "sabes? me encnta la forma en la que sonreis mi amor",
+        "para que necesito energia comestible para el cuerpo? para mi ya sos mi sobredosis de energia para toda la existencia plaetaria",
+        "me encanta la forma en la que te pones timido mylove",
+        "no dudes que siempre te eligiria a ti",
+        "me encanta el niño tierno que sos, nunca cambies mi amor :D",
+    ]; 
+
+    const random = Math.floor(Math.random() * messages.length);
+
+    document.getElementById("loveChestBox").innerHTML =
+        messages[random];
+}
+    </script>
+</body>
+</html>
+    
